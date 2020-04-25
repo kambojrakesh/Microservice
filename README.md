@@ -1,11 +1,14 @@
 # microservice
 
+https://www.javainuse.com/spring/microservices-interview-quesions
 
 https://howtodoinjava.com/spring-cloud/spring-cloud-api-gateway-zuul/
 
-
-
 https://tech.asimio.net/2017/02/02/Refreshable-Configuration-using-Spring-Cloud-Config-Server-Spring-Cloud-Bus-RabbitMQ-and-Git.html
+
+https://www.fullstack.cafe/
+
+-------------------------------------------------------------------------------------------------------------------------
 
 
 http://localhost:8080/limits
